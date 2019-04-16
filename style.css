@@ -1,0 +1,19 @@
+.hf { 
+    
+    background: #3b5998;
+    text-emphasis-color: white;
+    padding-left: 800px; border:10px;
+    height: 100px;
+     
+    color: white
+    
+    
+   
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: black;
+    opacity: 1; /* Firefox */
+  }
+  input, select, textarea{
+    color: #000;
+}
